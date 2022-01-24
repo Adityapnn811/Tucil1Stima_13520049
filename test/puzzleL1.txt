@@ -1,0 +1,43 @@
+B	A	S	V	A	P	H	K	U	E	G	H	W	P	U	T	O	K	X	Z	F	K	W	Z	O	Z	P	D	R	U
+Q	I	M	P	Z	E	X	T	P	Y	Z	M	D	X	P	D	W	L	T	O	W	V	V	L	N	Y	A	V	M	M
+Q	K	A	A	I	M	R	Q	G	N	W	W	M	Z	G	E	J	D	R	Q	W	E	H	T	U	X	V	J	X	P
+G	S	L	V	V	H	C	G	B	I	P	W	P	I	O	F	M	T	K	C	A	Z	V	Q	I	G	C	C	H	Q
+N	T	L	A	I	F	S	A	G	N	H	F	M	D	D	L	R	S	D	A	S	S	E	M	B	L	Y	F	X	M
+B	V	T	J	L	M	S	O	C	J	Y	D	L	W	D	A	G	C	I	J	R	P	A	U	E	Z	S	N	R	E
+T	X	A	Q	U	I	F	Q	K	X	R	V	F	P	N	J	M	L	X	N	E	M	B	D	P	A	N	D	S	K
+K	L	L	E	C	C	N	S	M	S	M	F	V	S	S	W	O	W	Y	T	I	A	R	N	I	Q	A	J	C	Z
+Y	K	K	N	H	G	U	H	D	J	S	S	T	Q	H	L	I	Q	N	G	B	Z	G	T	M	T	V	V	A	G
+Z	H	Q	N	V	Y	V	S	P	H	P	S	Q	A	L	N	Y	Z	A	V	B	J	S	U	Z	K	N	X	O	G
+C	O	H	B	R	P	G	I	P	V	R	E	G	T	C	J	E	G	S	F	X	A	F	O	T	Q	L	W	D	S
+K	C	X	O	G	Z	U	P	Z	B	S	G	U	X	K	S	L	J	Z	A	E	Q	E	Y	U	Z	D	N	Q	V
+A	X	G	T	C	U	W	C	B	I	P	N	F	W	W	P	B	I	O	I	U	P	U	O	L	P	T	E	N	R
+C	D	Y	Y	L	A	N	E	F	A	W	E	G	S	L	V	A	F	H	T	H	A	V	D	E	B	Q	O	S	A
+H	C	T	K	G	V	R	S	B	D	K	C	L	O	X	U	E	R	A	I	V	F	L	A	A	E	H	K	V	P
+R	I	Z	P	Y	P	X	N	N	Y	Q	S	D	B	Q	A	R	V	G	L	L	K	A	D	H	T	T	N	X	A
+B	O	I	H	T	Y	J	G	O	Z	K	M	O	M	E	U	C	H	O	O	J	R	C	A	Y	F	C	T	R	J
+O	P	I	Q	P	O	G	O	T	X	Y	E	Q	W	L	L	L	D	H	G	G	B	I	P	M	B	Q	B	C	Z
+C	W	L	G	N	T	W	Z	L	U	E	I	X	V	G	O	N	A	B	O	T	U	C	Y	N	F	U	D	E	H
+Y	W	T	F	I	B	J	Y	M	K	I	G	J	L	N	P	Y	N	B	K	X	D	F	V	H	E	O	E	U	U
+Y	N	Q	Q	A	K	N	Z	H	C	U	C	C	A	L	V	Q	U	R	V	C	T	Q	Q	T	X	Q	Z	Q	K
+B	M	E	E	W	M	R	L	E	A	E	L	G	S	B	B	H	W	K	O	I	N	I	I	D	V	I	S	J	F
+S	V	V	I	E	Q	Z	P	L	S	C	B	O	R	J	B	J	K	R	Y	K	E	A	X	R	T	E	D	C	O
+D	J	K	J	D	X	R	O	T	W	M	W	Z	G	A	T	G	R	M	P	A	F	W	C	N	V	D	R	L	D
+J	E	V	G	Q	V	S	M	D	N	V	E	D	G	L	T	Y	F	O	V	A	O	Y	F	K	U	D	C	R	V
+K	Z	E	G	N	W	H	I	A	A	S	G	V	E	J	A	Q	E	H	Y	B	E	R	I	E	L	E	I	G	N
+K	X	P	L	L	L	C	A	G	A	E	I	X	Z	F	C	C	C	H	K	T	N	L	B	I	Q	P	T	K	O
+M	N	B	D	T	V	Z	I	F	M	M	D	F	Q	R	S	C	Z	G	Y	V	W	S	F	I	Y	V	Y	A	B
+N	W	B	X	S	V	G	F	V	B	B	N	Q	D	X	H	E	B	T	G	E	V	E	U	N	B	F	M	D	G
+R	C	V	I	P	S	R	Y	E	M	Z	B	S	I	F	K	R	I	F	G	G	F	G	P	Q	C	D	X	H	B
+Y	W	T	F	I	B	J	Y	M	K	I	G	J	L	N	P	Y	N	B	K	X	D	F	V	H	E	O	E	U	U
+Y	N	Q	Q	A	K	N	Z	H	C	U	C	C	A	L	V	Q	U	R	V	C	T	Q	Q	T	X	Q	Z	Q	K
+
+ADA
+FORTRAN
+PHP
+ALGOL
+JAVA
+PYTHON
+ASSEMBLY
+LABVIEW
+SMALLTALK
+BASIC
